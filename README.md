@@ -25,8 +25,8 @@ A Swift Package for converting between hex color strings and native Apple platfo
 - ✅ Alpha channel support
 - ✅ Optional (`?`) and throwing APIs
 - ✅ Automatic `#` prefix handling
-- ✅ Swift 6 compatibility
-- ✅ Comprehensive test coverage
+- ✅ Swift 5.10+ compatibility
+- ✅ Comprehensive XCTest test coverage
 
 ## Installation
 

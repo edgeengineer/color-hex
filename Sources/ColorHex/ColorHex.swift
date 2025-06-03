@@ -12,7 +12,7 @@ import AppKit
 import SwiftUI
 #endif
 
-public enum HexColorError: Error, LocalizedError {
+public enum HexColorError: Error, LocalizedError, Equatable {
     case invalidFormat
     case invalidCharacters
     case invalidLength
