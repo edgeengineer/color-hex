@@ -1,6 +1,6 @@
 # ColorHex
 
-[![Swift](https://img.shields.io/badge/Swift-6.0-orange.svg)](https://swift.org)
+[![Swift](https://img.shields.io/badge/Swift-5.10+-orange.svg)](https://swift.org)
 [![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20macOS%20%7C%20tvOS%20%7C%20watchOS%20%7C%20visionOS-lightgrey.svg)](https://developer.apple.com)
 [![CI](https://github.com/edgeengineer/color-hex/workflows/CI/badge.svg)](https://github.com/edgeengineer/color-hex/actions)
 [![codecov](https://codecov.io/gh/edgeengineer/color-hex/branch/main/graph/badge.svg)](https://codecov.io/gh/edgeengineer/color-hex)
@@ -144,7 +144,7 @@ do {
 
 ## Requirements
 
-- Swift 6.0+
+- Swift 5.10+
 - Xcode 15.0+
 
 ## License
